@@ -1,1 +1,0 @@
-This is a secure login code implementing Authentication, Role Based Authorization with form validations designed for XXS and SQL query insertion attacks.
